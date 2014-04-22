@@ -22,6 +22,7 @@ public class NewClass {
         int i, tot=1;
         for(i=1;i<inputan;i++){
             tot=tot*i;
+            //branch ini namanya branch
             
         }
         System.out.println("faktorial : "+tot);
