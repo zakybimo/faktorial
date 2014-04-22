@@ -1,0 +1,4 @@
+faktorial
+=========
+
+program faktorial tauuuu
